@@ -1,5 +1,8 @@
-# 반도체 연구 (공모전)
-> RIEHVL 해설
+# 반도체 연구 해설 (공모전)
+> RIEHVL 해설 24학번
+
+# 공모전 링크
+https://dacon.io/competitions/official/236323/overview/description
 
 ![image](https://github.com/user-attachments/assets/9596f2d7-d648-46e2-804f-478eda6f7549)
 
