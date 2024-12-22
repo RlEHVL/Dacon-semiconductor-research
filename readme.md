@@ -1,6 +1,5 @@
 # 반도체 연구 (공모전)
 > RIEHVL 해설.  
-> 1~3 순위 해설급은 아님 주의.
 
 # 공모전 링크
 https://dacon.io/competitions/official/236323/overview/description
