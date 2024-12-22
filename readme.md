@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/9596f2d7-d648-46e2-804f-478eda6f7549)
 
 ![image](https://github.com/user-attachments/assets/185cc738-1a9c-4c67-9b23-dcb5479aadb3)
-이 이미지는 데이터의 각 변수에 대한 **박스플롯(Boxplot)**을 보여줍니다. 박스플롯은 변수의 분포, 중앙값, 사분위수 및 이상치를 시각적으로 표현하는 데 유용합니다. 각 변수의 특징과 이상치를 분석하며 해석해보겠습니다.
+
 
 ---
 
