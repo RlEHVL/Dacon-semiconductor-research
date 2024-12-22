@@ -9,3 +9,6 @@
 ![image](https://github.com/user-attachments/assets/3d1edc3b-ee30-41cb-82a3-9faad1e77b31)
 
 ![image](https://github.com/user-attachments/assets/563eeac8-0ceb-418b-b121-a27f4bd0fe10)
+> [Val] DNN Recall: 0.8905
+> Model Weights based on Recall: RF=0.25, XGB=0.25, LGBM=0.25, DNN=0.25
+> [Val] Ensemble Recall: 0.8955
