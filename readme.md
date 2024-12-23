@@ -57,7 +57,7 @@
 
 ## **참고**
 - 공모전 링크: [Dacon - 베이스라인](https://dacon.io/competitions/official/236323/codeshare/11455?page=1&dtype=recent)
-
+* 주의 풀이가 아닙니다 *
 ---
 
 ![image](https://github.com/user-attachments/assets/9596f2d7-d648-46e2-804f-478eda6f7549)
