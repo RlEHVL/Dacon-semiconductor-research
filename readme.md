@@ -307,4 +307,5 @@ https://dacon.io/competitions/official/236323/overview/description
 > 순수 혼자만의 힘.  
 > 조력자 0명.  
 > 이론 공부 10분 실무 독학 공부 12시간..   
-> (나머지 시간 c언어)
+> (나머지 시간 c언어)   
+> ## 독학 만세
