@@ -3,6 +3,11 @@
 > 본 목적은 대학 개인 프로젝트로 제출하기 위함으로.  
 > 모든 코드는 본인이 작성함
 
+# 반도체 연구 폴더에
+> 테스트 데이터 및 학습 데이터, 서브 미션 csv 파일 존재.   
+> 공모전 baseline 및 프로젝트 코랩 노트 (해설) 제공.
+
+
 # 공모전 링크
 https://dacon.io/competitions/official/236323/overview/description
 
