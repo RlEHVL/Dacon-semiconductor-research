@@ -18,7 +18,7 @@
   - `sample_submission.csv`: 제출용 샘플 파일.
 - **코드**:
   - `baseline_colab.ipynb`: 공모전 제공 베이스라인 코드.
-  - `project_colab.ipynb`: 본인이 작성한 프로젝트 코드 (해설 포함).
+  - `데이터과학 개인 프로젝트.ipynb`: 본인이 작성한 프로젝트 코드 (해설 포함).
 
 ---
 
