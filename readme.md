@@ -56,7 +56,7 @@
 ---
 
 ## **참고**
-- 공모전 링크: [Dacon - 반도체 공정 최적화 AI 알고리즘 개발](https://dacon.io/competitions/official/236323/overview/description)
+- 공모전 링크: [Dacon - 베이스라인](https://dacon.io/competitions/official/236323/codeshare/11455?page=1&dtype=recent)
 
 ---
 
