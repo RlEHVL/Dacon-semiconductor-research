@@ -306,4 +306,3 @@ https://dacon.io/competitions/official/236323/overview/description
 # 코멘트
 > 순수 혼자만의 힘.  
 > 조력자 0명. 
-> 겨우 턱걸이로 12/23 마감 완료..
