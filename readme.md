@@ -303,3 +303,6 @@ https://dacon.io/competitions/official/236323/overview/description
 
 ---
 
+# 코멘트
+> 순수 혼자만의 힘.  
+> 조력자 0명
